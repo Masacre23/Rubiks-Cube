@@ -1,3 +1,3 @@
-# Rubik-s-Cube
+# Rubik's-Cube
 
 Playable rubik cube
